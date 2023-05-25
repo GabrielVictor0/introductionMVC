@@ -1,0 +1,15 @@
+C:\Users\bielg\Desktop\introductionMVC\bin\Debug\net7.0\introductionMVC.exe
+C:\Users\bielg\Desktop\introductionMVC\bin\Debug\net7.0\introductionMVC.deps.json
+C:\Users\bielg\Desktop\introductionMVC\bin\Debug\net7.0\introductionMVC.runtimeconfig.json
+C:\Users\bielg\Desktop\introductionMVC\bin\Debug\net7.0\introductionMVC.dll
+C:\Users\bielg\Desktop\introductionMVC\bin\Debug\net7.0\introductionMVC.pdb
+C:\Users\bielg\Desktop\introductionMVC\obj\Debug\net7.0\introductionMVC.csproj.AssemblyReference.cache
+C:\Users\bielg\Desktop\introductionMVC\obj\Debug\net7.0\introductionMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bielg\Desktop\introductionMVC\obj\Debug\net7.0\introductionMVC.AssemblyInfoInputs.cache
+C:\Users\bielg\Desktop\introductionMVC\obj\Debug\net7.0\introductionMVC.AssemblyInfo.cs
+C:\Users\bielg\Desktop\introductionMVC\obj\Debug\net7.0\introductionMVC.csproj.CoreCompileInputs.cache
+C:\Users\bielg\Desktop\introductionMVC\obj\Debug\net7.0\introductionMVC.dll
+C:\Users\bielg\Desktop\introductionMVC\obj\Debug\net7.0\refint\introductionMVC.dll
+C:\Users\bielg\Desktop\introductionMVC\obj\Debug\net7.0\introductionMVC.pdb
+C:\Users\bielg\Desktop\introductionMVC\obj\Debug\net7.0\introductionMVC.genruntimeconfig.cache
+C:\Users\bielg\Desktop\introductionMVC\obj\Debug\net7.0\ref\introductionMVC.dll
